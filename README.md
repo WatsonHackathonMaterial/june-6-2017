@@ -3,8 +3,6 @@
 
 ## Training Agenda: May 30th & 31st 
 
-* 9:00 - 9:20 a.m.
-  * Introduction and refreshments: Helen & Subashan
 * 2:00-2:30 
   * PITCH TRAINING
 * 2:30-2:50 
