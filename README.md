@@ -1,3 +1,6 @@
+# HACKATHON Prep June 6th - 7th 
+2.5 hour agenda for hackathon training using Watson Developer Cloud APIs and Bluemix. 
+
 ## Training Agenda: May 30th & 31st 
 
 * 9:00 - 9:20 a.m.
