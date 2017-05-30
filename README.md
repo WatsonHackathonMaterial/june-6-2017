@@ -50,7 +50,8 @@
   * Overview: https://github.com/Bluemix-Watson-Labs/Natural-Language-Classifier-Lab
 * 4:10-5:00 
   * Node Red Tutorial Watson Natural Language Understanding Lab - Helen Lam
-  * Natural Language Lab: https://github.com/jeancarl/node-red-labs/blob/master/node-red-natural-language-understanding/node-red-natural-language-understanding.pdf OR 
+  * Visual Recognition Lab: https://medium.com/@helenflam/quickly-exploring-the-visual-recognition-api-using-node-red-db11680bf69
+    OR 
   * Build a Conversation Bot Lab: https://www.ibm.com/watson/developercloud/doc/conversation/tutorial.html
 
 # Important Links - sample code and tutorials
