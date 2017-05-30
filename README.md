@@ -42,6 +42,7 @@
   * Watson Personality Insights - Helen Lam 
   * Video: https://www.youtube.com/watch?v=YdVVLWv3Fwo
   * Demo: https://personality-insights-livedemo.mybluemix.net/
+  * Overview: https://medium.com/@helenflam/personality-insights-node-red-app-a20b84d95b24
 * 4:00-4:10 
   * Natural Language Classifier - Helen Lam
   * Video: https://www.youtube.com/watch?v=h1ZiUIvYdD8&feature=youtu.be
