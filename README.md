@@ -8,15 +8,16 @@
 * 2:30-2:50 
   * Bluemix Introduction & Overview (Cloud Foundry, Containers, DevOps) - Helen Lam and David Carew 
 * 2:50-3:00 
-  * Watson Personality Insights - David Carew
-  * Video: https://www.youtube.com/watch?v=YdVVLWv3Fwo
-  * Demo: https://personality-insights-livedemo.mybluemix.net/
+  * Visual Recognition - David Carew 
+  * Video: https://youtu.be/F6oaA6fauzY
+  * Demo: https://visual-recognition-demo.mybluemix.net/
+  * Overview: https://www.ibm.com/watson/developercloud/visual-recognition.html
 * 3:00-3:10 
   * Watson Natural Language Understanding - David Carew
   * Video: https://www.youtube.com/watch?v=MB4ynlq52C4
   * Demo: https://natural-language-understanding-demo.mybluemix.net/ 
 * 3:10-3:20 
-  * Watson Speech-to-Text/Text-to-Speech - David Carew
+  * Watson Speech-to-Text/Text-to-Speech & Language Translation David Carew
   * Demo: https://text-to-speech-demo.mybluemix.net/
   * Demo: https://speech-to-text-demo.mybluemix.net/
 * 3:20-3:30 
@@ -24,20 +25,23 @@
   * Video: https://youtu.be/9ks-cEG6KPs
   * Demo: https://discovery-news-demo.mybluemix.net/
 * 3:30 -3:40 
+  * Conversation - Helen Lam
+  * Video: https://www.youtube.com/watch?v=1rTl1WEbg5U&feature=youtu.be
+  * Demo: https://conversation-demo.mybluemix.net/
+  * Overview: https://github.com/Bluemix-Watson-Labs/conversation-api-overview 
+* 3:40 - 3:45
+  * Tone Analyzer - Helen Lam
+  * Video: https://www.youtube.com/watch?v=wUb--6FPBik
+  * Demo: https://tone-analyzer-demo.mybluemix.net/
+* 3:45-3:50 
   * Retrieve and Rank - Helen Lam
   * Video: https://www.youtube.com/watch?v=pupGatYlfqQ
   * Demo: http://retrieve-and-rank-demo.mybluemix.net/
   * Overview: https://medium.com/@helenflam/retrieve-rank-492f6178dfcd
-* 3:40-3:50 
-  * Conversation - Helen Lam
-  * Video: https://www.youtube.com/watch?v=1rTl1WEbg5U&feature=youtu.be
-  * Demo: https://conversation-demo.mybluemix.net/
-  * Overview: https://github.com/Bluemix-Watson-Labs/conversation-api-overview
 * 3:50-4:00 
-  * Visual Recognition - Helen Lam
-  * Video: https://youtu.be/F6oaA6fauzY
-  * Demo: https://visual-recognition-demo.mybluemix.net/
-  * Overview: https://www.ibm.com/watson/developercloud/visual-recognition.html
+  * Watson Personality Insights - Helen Lam 
+  * Video: https://www.youtube.com/watch?v=YdVVLWv3Fwo
+  * Demo: https://personality-insights-livedemo.mybluemix.net/
 * 4:00-4:10 
   * Natural Language Classifier - Helen Lam
   * Video: https://www.youtube.com/watch?v=h1ZiUIvYdD8&feature=youtu.be
