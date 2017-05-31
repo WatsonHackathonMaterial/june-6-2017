@@ -60,7 +60,7 @@
 * https://medium.com/ibm-watson-developer-cloud
 * https://github.com/Bluemix-Watson-Labs/Agenda-WDC-April-2017
 * https://watsonaccelerators.mybluemix.net/ibm/accelerator/claims 
-  * Watson Cognitive Claims Accelerator - requires Bluemix ID. Scroll down to "All Accelerators" then click A to Z and find "Cognitive Claims
+  * Watson Cognitive Claims Accelerator - requires Bluemix ID. Scroll down to "All Accelerators" then click A to Z and find "Cognitive Claims"
 
 
 
